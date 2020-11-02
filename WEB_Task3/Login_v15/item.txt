@@ -1,0 +1,14 @@
+1,LoveCard,60,20,80
+2,ChristmasCard,50,20,70
+3,ValentinesCard,40,20,60
+4,AprilfoolcCard,70,20,90
+5,HappyBirthday50th,80,20,100
+6,C1elebratoryCard,60,20,80
+7,OldCard,30,20,50
+8,BusinessCard,20,20,40
+9,WeddingCard,70,20,90
+10,SailingCard,60,20,80
+11,BestFriendCard,55,20,85
+12,NewChildCard,35,20,80
+13,HappyBirthday18th,65,20,70
+14,HappyBirthday21st,65,20,70
